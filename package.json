@@ -1,0 +1,22 @@
+{
+  "name": "anti-nuke-bot",
+  "version": "2.0.1",
+  "description": "protect discord servers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "endless",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "discord.js": "^13.0.1",
+    "enmap": "^5.8.7",
+    "simple-get": ">=4.0.1"
+  },
+  "repository": {
+    "url": "https://github.com/endlessXD/Anti-Nuke-Bot"
+  },
+  "engines": {
+    "node": ">=16.6.0"
+  }
+}
